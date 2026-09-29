@@ -2,8 +2,7 @@
 Installation & Start
 ---------------------
     pip install streamlit
-    streamlit run termine.py
-
+    streamlit run termine.pyhttps://prod.liveshare.vsengsaas.visualstudio.com/join?A0FFF0758557536B8DE8A6ABED258D138A28
 Die App öffnet sich automatisch im Browser (Standard: http://localhost:8501).
 Alle erstellten Veranstaltungen werden dauerhaft in "veranstaltungen.json"
 im selben Ordner gespeichert.
